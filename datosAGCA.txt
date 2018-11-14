@@ -1,0 +1,3 @@
+Nombre:		Carlos Armando Alcantar Gonzalez
+Carrera:	Ing. en desarrollo de software
+Ciudad:		Tijuana, B.C.
