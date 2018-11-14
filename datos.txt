@@ -1,9 +1,3 @@
-
-<<<<<<< HEAD
-Nombre: Carlos Armando Alcantar Gonzalez
-Carrera: Ing. en desarrollo de software
-Ciudad: Tijuana B.C.
-=======
 Nombre: Jose Francisco Osuna Ocaranza
 Carrera: Ing. Informática
 Ciudad: Los Mochis, sin.
@@ -19,5 +13,3 @@ Ciudad: Mazatl�n, Sinaloa
 Nombre: Jair Ramirez Contreras
 Carrera: Ing. en Sistemas Computacionales
 Ciudad: Tijuana
->>>>>>> 5439cda493eb666e1ee31c628788fdae1281be85
-
